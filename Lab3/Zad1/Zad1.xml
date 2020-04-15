@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE glowny SYSTEM "Zad1.dtd">
+
+<glowny>
+    <podrzedny></podrzedny>
+    <podrzedny></podrzedny>
+    <podrzedny></podrzedny>
+    <podrzedny></podrzedny>
+    <podrzedny></podrzedny>
+    <pierwszy></pierwszy>
+    <pierwszy></pierwszy>
+    <drugi></drugi>
+    <drugi></drugi>
+    <drugi></drugi>
+    <parzysty></parzysty>
+    <parzysty></parzysty>
+
+</glowny>

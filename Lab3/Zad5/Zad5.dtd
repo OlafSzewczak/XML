@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+    <!ELEMENT glowny (nazwa?, dzial*)>
+
+    <!ELEMENT dzial (pracownik+)>
+    <!ELEMENT nazwa (#PCDATA)>
+
+    <!ELEMENT pracownik (imie, nazwisko, data_urodzenia)>
+
+    <!ELEMENT imie (#PCDATA)>
+    <!ELEMENT nazwisko (#PCDATA)>
+    <!ELEMENT data_urodzenia (#PCDATA)>
+
+    <!ATTLIST pracownik plec ("m", "k", "bd") "bd">
+    <!ATTLIST pracownik numer_pesel NMTOKEN #REQUIRED>
+    <!ATTLIST pracownik opis NMTOKENS #IMPLIED>
+

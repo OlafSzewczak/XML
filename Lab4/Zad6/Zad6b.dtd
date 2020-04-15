@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<!ENTITY % osb "osoba" SYSTEM "Zad6a.dtd">
+        <!ENTITY % im "imie" SYSTEM "Zad6a.dtd">
+        <!ENTITY % naz "nazwisko" SYSTEM "Zad6a.dtd">
+        <!ENTITY % wk "wiek" SYSTEM "Zad6a.dtd">
+

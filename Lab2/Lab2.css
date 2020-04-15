@@ -1,0 +1,38 @@
+grupy{
+    padding: 2%;
+}
+
+grupa {
+    display:inline-block;
+    font-weight: bold;
+    border-style: solid;
+    text-align: left;
+}
+
+osoba{
+    display:block;
+    color:purple;
+    font-size:medium;
+    padding: 3px;
+}
+
+imie{
+    font-weight:Bold;
+}
+
+nazwisko{
+    font-style: italic;
+}
+
+nr_albumu {
+    display:block;
+    font-size: 10px;
+}
+
+osoba[plec='K']:after{
+   content: url(oznK.png);
+   padding-left: 4px;
+}
+
+
+

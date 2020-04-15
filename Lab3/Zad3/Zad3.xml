@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glowny SYSTEM "Zad3.dtd">
+
+<glowny>
+    <podrzedny atrybut1="sss" atrybut2="cos" atrybut3="">ararar</podrzedny>
+    <podrzedny atrybut1="bbb" atrybut2="" atrybut3="">bbbb</podrzedny>
+    <podrzedny atrybut1="ccc" atrybut2="gosc" atrybut3="">cccc</podrzedny>
+    <podrzedny atrybut1="ddd" atrybut2="" atrybut3="">dddd</podrzedny>
+    <podrzedny atrybut1="eee" atrybut2="" atrybut3="">eeee</podrzedny>
+</glowny>

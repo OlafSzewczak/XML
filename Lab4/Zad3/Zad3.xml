@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE osoby SYSTEM "Zad3.dtd">
+
+<osoby>
+
+<dziecko pesel="230833245235" plec="m">
+
+    <imie>Bobo</imie>
+    <nazwisko>Dziecinny</nazwisko>
+    <data_urodzenia>2016.04.23</data_urodzenia>
+
+</dziecko>
+
+</osoby>

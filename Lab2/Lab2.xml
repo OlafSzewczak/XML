@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="Lab2.css" ?>
+
+<Grupy>
+
+<grupa numer="1">
+
+    <osoba plec="M">
+        <imie>Olaf</imie>
+        <nazwisko>Szewczak</nazwisko>
+        <nr_albumu>nr_albumu:140533</nr_albumu>
+    </osoba>
+
+    <osoba plec="M">
+        <imie>Adam</imie>
+        <nazwisko>Bogusławski</nazwisko>
+        <nr_albumu>nr_albumu:140244</nr_albumu>
+    </osoba>
+
+    <osoba plec="M">
+
+        <imie>Kacper</imie>
+        <nazwisko>Lorence</nazwisko>
+        <nr_albumu>nr_albumu:143532</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="M">
+
+        <imie>Eryk</imie>
+        <nazwisko>Banaszek</nazwisko>
+        <nr_albumu>nr_albumu:142478</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="M">
+
+        <imie>Jan</imie>
+        <nazwisko>Marchel</nazwisko>
+        <nr_albumu>nr_albumu:140988</nr_albumu>
+
+    </osoba>
+
+</grupa>
+
+<grupa numer="2">
+
+    <osoba plec="M">
+
+        <imie>Sławomir</imie>
+        <nazwisko>Mach</nazwisko>
+        <nr_albumu>nr_albumu:210322</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="K">
+
+        <imie>Anna</imie>
+        <nazwisko>Kaszmir</nazwisko>
+        <nr_albumu>nr_albumu:210567</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="M">
+
+        <imie>Robert</imie>
+        <nazwisko>Kuc</nazwisko>
+        <nr_albumu>nr_albumu:210994</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="K">
+
+        <imie>Monika</imie>
+        <nazwisko>Sante</nazwisko>
+        <nr_albumu>nr_albumu:210832</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="M">
+
+        <imie>Rychu</imie>
+        <nazwisko>Peja</nazwisko>
+        <nr_albumu>nr_albumu:997</nr_albumu>
+
+    </osoba>
+</grupa>
+
+<grupa numer="3">
+
+    <osoba plec="K">
+
+        <imie>Joanna</imie>
+        <nazwisko>Kurk</nazwisko>
+        <nr_albumu>nr_albumu:340250</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="M">
+
+        <imie>Konrad</imie>
+        <nazwisko>Grzybicki</nazwisko>
+        <nr_albumu>nr_albumu:340621</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="K">
+
+        <imie>Julia</imie>
+        <nazwisko>Kozłowska</nazwisko>
+        <nr_albumu>nr_albumu:340549</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="M">
+
+        <imie>Arnold</imie>
+        <nazwisko>Buła</nazwisko>
+        <nr_albumu>nr_albumu:340464</nr_albumu>
+
+    </osoba>
+
+    <osoba plec="K">
+
+        <imie>Klaudia</imie>
+        <nazwisko>Bruk</nazwisko>
+        <nr_albumu>nr_albumu:340734</nr_albumu>
+
+    </osoba>
+
+</grupa>
+
+</Grupy>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE glowny [
+
+        <!ENTITY autor "Olaf Szewczak ">
+        <!ENTITY copy "&#169;">
+        <!ELEMENT stopka (#PCDATA)>
+        <!ELEMENT glowny (stopka)>
+
+        ]>
+
+<glowny>
+
+<stopka>&autor;&copy;</stopka>
+
+</glowny>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+        <!ELEMENT nauka (rodzaje, rzeczowniki)>
+
+        <!ELEMENT rodzaje (rodzaj,rodzaj,rodzaj)>
+        <!ELEMENT rzeczowniki (rzeczownik, rzeczownik, rzeczownik, rzeczownik, rzeczownik, rzeczownik, rzeczownik, rzeczownik, rzeczownik)>
+
+        <!ELEMENT  rodzaj (#PCDATA)>
+        <!ELEMENT rzeczownik (nazwa, synonimy?)>
+
+        <!ELEMENT nazwa (#PCDATA)>
+        <!ELEMENT synonimy (#PCDATA)>
+
+        <!ATTLIST rodzaj skrot ("m", "z", "n") #REQUIRED>

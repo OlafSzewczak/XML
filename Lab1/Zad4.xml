@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<szkola>
+
+
+    <uczen>
+
+        <imie>Olaf</imie>
+        <nazwisko>Szewczak</nazwisko>
+        <data_urodzenia>23.08.1999</data_urodzenia>
+        <plec>Mężczyzna</plec>
+        <stan_cywilny>Sierota</stan_cywilny>
+
+    </uczen>
+
+    <uczen>
+
+        <imie>Aneta</imie>
+        <nazwisko>Czapla</nazwisko>
+        <data_urodzenia>21.08.1999</data_urodzenia>
+        <plec>Potwor</plec>
+        <stan_cywilny>Wdowa</stan_cywilny>
+
+    </uczen>
+
+    <uczen>
+
+        <imie>Wojciec</imie>
+        <nazwisko>Ojcowski</nazwisko>
+        <data_urodzenia>28.01.1973</data_urodzenia>
+        <plec>Mężczyzna</plec>
+        <stan_cywilny>Kawaler</stan_cywilny>
+
+    </uczen>
+
+
+    <nauczyciel>
+
+        <imie>Marian</imie>
+        <nazwisko>Kozłowski</nazwisko>
+        <data_urodzenia>05.05.1984</data_urodzenia>
+        <plec>Mężczyzna</plec>
+
+    </nauczyciel>
+
+    <nauczyciel>
+
+        <imie>Kornelia</imie>
+        <nazwisko>Gołąb</nazwisko>
+        <data_urodzenia>11.10.1978</data_urodzenia>
+        <plec>Kobieta</plec>
+
+    </nauczyciel>
+
+    <nauczyciel>
+
+        <imie>Andrzej</imie>
+        <nazwisko>Pucha</nazwisko>
+        <data_urodzenia>06.06.1966</data_urodzenia>
+        <plec>Antychryst</plec>
+
+    </nauczyciel>
+
+    <nikt_wazny>
+
+        <imie>King</imie>
+        <nazwisko>Kong</nazwisko>
+        <data_urodzenia>02.07.1933</data_urodzenia>
+        <plec>Mężczyzna</plec>
+        <praca>Goryl</praca>
+
+    </nikt_wazny>
+
+    <nikt_wazny>
+
+        <imie>Count</imie>
+        <nazwisko>Dracula</nazwisko>
+        <data_urodzenia>15.08.1867</data_urodzenia>
+        <plec>Mężczyzna</plec>
+        <praca>Dozorca</praca>
+
+    </nikt_wazny>
+
+    <nikt_wazny>
+
+        <imie>Michael</imie>
+        <nazwisko>Myers</nazwisko>
+        <data_urodzenia>14.08.1988</data_urodzenia>
+        <plec>Mężczyzna</plec>
+        <praca>Mechanik</praca>
+
+    </nikt_wazny>
+
+</szkola>

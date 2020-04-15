@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glowny SYSTEM "Zad5.dtd">
+
+<glowny>
+
+
+    <nazwa>Olmedia</nazwa>
+
+    <dzial>
+
+        <pracownik numer_pesel="73022310823" plec="m" opis="Pracownik Miesiąca">
+            <imie>Wojciech</imie>
+            <nazwisko>Szewczak</nazwisko>
+            <data_urodzenia>23.02.73</data_urodzenia>
+        </pracownik>
+
+    </dzial>
+
+
+</glowny>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!ELEMENT dom (%osb;*)>
+<!ELEMENT %osb; (%im;,%naz;,%wm;)>
